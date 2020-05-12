@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'app',
-    # 'object_cloner',
+    'object_cloner',
 ]
 
 MIDDLEWARE = [
